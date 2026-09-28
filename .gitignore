@@ -1,0 +1,9 @@
+config.toml
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+# The catalogue can be huge and copyright status is operator/jurisdiction-specific.
+library/*/
+*.partial

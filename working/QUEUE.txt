@@ -1,0 +1,11 @@
+# JSON Lines: discovered work-page frontier
+{"at": "2026-09-28T10:16:10+00:00", "source": "https://imslp.org/wiki/Category:Chopin,_Frederic", "url": "https://imslp.org/wiki/Allegretto_and_Mazurka_(Chopin,_Fr%C3%A9d%C3%A9ric)"}
+{"at": "2026-09-28T10:16:10+00:00", "source": "https://imslp.org/wiki/Category:Chopin,_Frederic", "url": "https://imslp.org/wiki/Allegretto_in_F-sharp_major_(Chopin,_Fr%C3%A9d%C3%A9ric)"}
+{"at": "2026-09-28T10:16:10+00:00", "source": "https://imslp.org/wiki/Category:Chopin,_Frederic", "url": "https://imslp.org/wiki/Allegro_de_concert,_Op.46_(Chopin,_Fr%C3%A9d%C3%A9ric)"}
+{"at": "2026-09-28T10:16:10+00:00", "source": "https://imslp.org/wiki/Category:Chopin,_Frederic", "url": "https://imslp.org/wiki/Andante_spianato_et_Grande_polonaise_brillante,_Op.22_(Chopin,_Fr%C3%A9d%C3%A9ric)"}
+{"at": "2026-09-28T10:16:10+00:00", "source": "https://imslp.org/wiki/Category:Chopin,_Frederic", "url": "https://imslp.org/wiki/Andantino,_B.117_(Chopin,_Fr%C3%A9d%C3%A9ric)"}
+{"at": "2026-09-28T10:16:10+00:00", "source": "https://imslp.org/wiki/Category:Chopin,_Frederic", "url": "https://imslp.org/wiki/Ballade_No.1,_Op.23_(Chopin,_Fr%C3%A9d%C3%A9ric)"}
+{"at": "2026-09-28T10:16:10+00:00", "source": "https://imslp.org/wiki/Category:Chopin,_Frederic", "url": "https://imslp.org/wiki/Ballade_No.2,_Op.38_(Chopin,_Fr%C3%A9d%C3%A9ric)"}
+{"at": "2026-09-28T10:16:10+00:00", "source": "https://imslp.org/wiki/Category:Chopin,_Frederic", "url": "https://imslp.org/wiki/Ballade_No.3,_Op.47_(Chopin,_Fr%C3%A9d%C3%A9ric)"}
+{"at": "2026-09-28T10:16:10+00:00", "source": "https://imslp.org/wiki/Category:Chopin,_Frederic", "url": "https://imslp.org/wiki/Ballade_No.4,_Op.52_(Chopin,_Fr%C3%A9d%C3%A9ric)"}
+{"at": "2026-09-28T10:16:10+00:00", "source": "https://imslp.org/wiki/Category:Chopin,_Frederic", "url": "https://imslp.org/wiki/Barcarolle,_Op.60_(Chopin,_Fr%C3%A9d%C3%A9ric)"}

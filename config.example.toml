@@ -1,0 +1,16 @@
+# Copy to config.toml. A seed is a normal IMSLP wiki page whose links are the
+# discovery frontier; it is intentionally not a hidden search or download URL.
+seed_url = "https://imslp.org/wiki/Category:Chopin,_Frederic"
+output_dir = "library"
+working_dir = "working"
+jurisdiction = "US"                    # CA, US, or EU
+contact = "https://github.com/oscarwang22/imslp"
+request_delay_seconds = 2.5             # IMSLP robots.txt currently says 2
+max_works_per_run = 10
+max_download_megabytes = 250
+render_dpi = 300
+threshold = 190
+
+# Downloads remain disabled unless the operator also supplies
+# --acknowledge-rights on the command line after reviewing RIGHTS_REVIEW.txt.
+download = false
