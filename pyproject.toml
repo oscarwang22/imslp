@@ -1,0 +1,34 @@
+[build-system]
+requires = ["hatchling>=1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "score-curator"
+version = "0.1.0"
+description = "A cautious, resumable IMSLP score curator"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+  "beautifulsoup4>=4.12,<5",
+  "httpx>=0.27,<1",
+  "img2pdf>=0.5,<1",
+  "Pillow>=10,<12",
+  "PyMuPDF>=1.24,<2",
+  "pypdf>=5,<6",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<9", "ruff>=0.7,<1"]
+
+[project.scripts]
+score-curator = "score_curator.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/score_curator"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
